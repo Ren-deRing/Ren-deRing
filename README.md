@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Render!
 
-- 🌱 I’m currently learning Cpp
+- 🌱 I’m currently learning Rust
 - 💕 I especially like Python and Java.
 - 🏠 I am a Korean living in Korea!
 
