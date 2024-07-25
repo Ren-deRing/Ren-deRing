@@ -1,9 +1,1 @@
-### Hi there 👋 I'm Render!
-
-- 🌱 I’m currently learning Rust
-- 💕 I especially like Python and Java.
-- 🏠 I am a Korean living in Korea!
-
-[![Ren-deRing's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ren-deRing)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Ren-deRing's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ren-deRing&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Ren-deRing)     
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
