@@ -1,6 +1,6 @@
 ## ❓ ABOUT
 
-#### TODO
+## TODO
 
 ### ⭐ 블로그
 
@@ -31,6 +31,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white)
+
+## 📞 Contacts
+[![Gmail Badge](https://img.shields.io/badge/Gmail-Heebb0912.b-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:heebb0912.b@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-wn.johy-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/wn.johy)
 
 ## 💻 Online Judge
 
