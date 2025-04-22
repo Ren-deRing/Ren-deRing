@@ -1,6 +1,6 @@
 ## ❓ ABOUT
 
-## TODO
+## 원종현 [JONGHYUN WON] TODO
 
 ### ⭐ 블로그
 
