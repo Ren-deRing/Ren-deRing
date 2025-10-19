@@ -34,7 +34,6 @@
 
 ## 📞 Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Heebb0912.b-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:heebb0912.b@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-wn.johy-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/wn.johy)
 
 ## 💻 Online Judge
 
